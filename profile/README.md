@@ -14,7 +14,7 @@ We run weekly check ins, track tasks, and keep written notes so the project rema
 
 ## Team
 - Shane McAnuff
-- JohnPaul Mitiguy
+- JP Mitiguy
 - Natalya Avendaño
 - Owen Conway
 - Ozi Akukwe
